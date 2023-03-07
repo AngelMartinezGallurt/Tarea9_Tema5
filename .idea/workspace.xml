@@ -4,11 +4,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce9523c0-2171-45d8-b844-c339924b4615" name="Changes" comment="" />
+    <list default="true" id="ce9523c0-2171-45d8-b844-c339924b4615" name="Changes" comment="Apartado 3">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Actividad4/Circulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Actividad4/Conica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Actividad4/Cuadrado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Actividad4/Cuadrilatero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Actividad4/Elipsis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Actividad4/Figura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Actividad4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Actividad4/Punto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Actividad4/Rectangulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Actividad 2.xmi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Actividad 4.xmi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Actividad1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -27,10 +51,23 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/angel/daw-proyectos-ed/Tarea5_Tema9/src/main/java/org/example/Actividad4",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/org/example/Actividad4" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/java/org/example/Actividad3" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -39,7 +76,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678178570124</updated>
+      <workItem from="1678178571219" duration="818000" />
     </task>
+    <task id="LOCAL-00001" summary="Apartado 3">
+      <created>1678178721111</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678178721112</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Apartado 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Apartado 3" />
   </component>
 </project>
